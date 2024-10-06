@@ -13,6 +13,9 @@
   </h1>
 
   <hr>
+    <a href=" https://ifuta.github.io/see1006/" target="_blank">Top Page</a>
+
+  <hr>
   <a href="6.1+Font+Properties/index.html" target="_blank">6.1 Font</a>
   <hr>
 
