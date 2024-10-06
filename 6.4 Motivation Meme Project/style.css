@@ -1,0 +1,19 @@
+*{
+  background-color: black;
+color: white;
+text-align: center;
+}
+
+h1{
+  text-transform: uppercase;
+}
+
+img{
+  border: 10px red solid;
+}
+
+
+* {
+  font-family: "Edu AU VIC WA NT Guides", system-ui;
+  font-family: "Sixtyfour Convergence", system-ui;
+}
