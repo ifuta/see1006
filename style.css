@@ -1,0 +1,23 @@
+*{
+  background-color: seagreen;
+  /* border: solid 1px blue ; */
+}
+
+hr{
+border: solid 1px blue ;
+}
+
+img{
+  float: left;
+  margin: 0  50px;
+}
+
+header{
+  display: block;
+}
+
+.container{
+  clear: both;
+  display: block;
+  border: solid 1px blue;
+}
