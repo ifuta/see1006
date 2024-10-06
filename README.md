@@ -1,4 +1,3 @@
 # see1006
 
-ReadMe
-UP
+https://ifuta.github.io/see1006/
