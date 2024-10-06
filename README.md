@@ -1,3 +1,27 @@
-# see1006
+<!DOCTYPE html>
+<html lang="ja">
 
-https://ifuta.github.io/see1006/
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <h1>
+    List Index
+  </h1>
+
+<hr>
+ https://ifuta.github.io/see1006/
+
+  <hr>
+    <a href=" https://ifuta.github.io/see1006/" target="_blank">Top Page</a>
+
+  <hr>
+  <a href="6.1+Font+Properties/index.html" target="_blank">6.1 Font</a>
+  <hr>
+
+</body>
+
+</html>
