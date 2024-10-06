@@ -12,6 +12,9 @@
     List Index
   </h1>
 
+<hr>
+ https://ifuta.github.io/see1006/
+
   <hr>
     <a href=" https://ifuta.github.io/see1006/" target="_blank">Top Page</a>
 
